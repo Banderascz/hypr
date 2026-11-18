@@ -1,5 +1,5 @@
 local mainMod = "SUPER"
-local reset_scale = "QT_SCALE_FACTOR=1.0 "
+local reset_scale = "QT_SCALE_FACTOR=1.0 GTK_SCALE=1.0 GDK_SCALE=1.0 "
 local launchPrefix = "uwsm app -- " -- if you are not using UWSM, make this empty (e.g. "")
 
 ---------------------------
